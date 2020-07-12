@@ -1,0 +1,1 @@
+For pop3 accounts to work, chmod 777 directory tropical/data/uploads.
